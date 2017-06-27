@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <title>模版语法</title>
+      </head>
+      <body>
+            <span>Message: {{ msg }}</span>
+            <span v-once>This Will never change: {{ msg }}</span>
+            <div v-html="rawHtml"></div>
+            <div v-bind:id="dynamicId"></div>
+            <div v-bind:disabled="someDynamicCondition">Button</div>
+      </body>
+</html>
