@@ -1,8 +1,8 @@
 # Learn the process of vue
-- 理解mvvm与mvm的区别
+- 理解mvvm与mvm的区别
 - 与react相比优势劣势
 
-+ 基础实例练习
++ 基础实例练习
     - new Vue
     - $data和$watch
     - 生命周期created、mounted、updated、destroyed.. 
@@ -16,8 +16,8 @@
 
 + vue-cli-todo经典实例
     - 表单 v-model    
-    - 监听事件
-    - 鼠标事件处理
+    - 监听事件
+    - 鼠标事件处理
     - vue的响应式机制和生命周期    
     - 理解methods/computed/watched/setter／watchers
 
