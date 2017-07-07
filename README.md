@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Learn the process of vue
 - 理解mvvm与mvm的区别
 - 与react相比优势劣势
