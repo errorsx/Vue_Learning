@@ -21,8 +21,8 @@
     - vue的响应式机制和生命周期    
     - 理解methods/computed/watched/setter／watchers
 
-- vue-router和vuex
-- vue-cli模仿简书登陆实例
+- vue-router和vuex
+- vue-cli注册登陆练习
 
 
 
