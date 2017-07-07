@@ -8,7 +8,7 @@
     - 生命周期created、mounted、updated、destroyed.. 
     + 模版语法
         - 指令v-once/bind/on/if/for/
-        - 过滤器和指令缩写
+        - 过滤器和指令缩写
     + 渲染
         - 条件 v-if/show 
         - 列表 v-for
