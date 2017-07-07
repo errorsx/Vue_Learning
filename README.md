@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn the process of vue
 - 理解mvvm与mvm的区别
 - 与react相比优势劣势
@@ -39,3 +40,9 @@
         - reading
     - App.vue
     - main.js
+=======
+# Vue_Learning
+ Learn the process of vue --jianrui
+
+2017-6-19 04:49 
+>>>>>>> 910b3d6f00ba7738745cda8bec4e13ffa6829c12
